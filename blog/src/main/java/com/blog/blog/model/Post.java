@@ -1,3 +1,8 @@
+/*
+ * Simple model for a Post 
+ * including: title of the post,  content of the post and the the author
+ */
+
 package com.blog.blog.model;
 
 public class Post {
